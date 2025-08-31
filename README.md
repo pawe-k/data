@@ -9,5 +9,8 @@ The trick is to maximise traffic from every source, specifically.
 1. Ranking is search
 2. Ranking in feed
 
-Currently, the limitations are gathering enough clean data. Once the data is gathered I will employ NPLs to improve and optimize ranking in search as well as other industry tools.
-Currently exploring how to maximise rankin in feed.
+## Bottle Necks
+1. Gathering enough data for big data anlytics: Note the point of deminish returns as well as figure out how to offload processing to the cloud (if you need to)
+
+## Ideas
+1. Using NPL for SEO optimation
