@@ -9,5 +9,5 @@ The trick is to maximise traffic from every source, specifically.
 1. Ranking is search
 2. Ranking in feed
 
-Currently, the limitations are gathering enough clean data. Once the data is gathered I will employ NPLs to improve and optimize ranking in search as well as other industry benchmarks.
+Currently, the limitations are gathering enough clean data. Once the data is gathered I will employ NPLs to improve and optimize ranking in search as well as other industry tools.
 Currently exploring how to maximise rankin in feed.
