@@ -1,6 +1,3 @@
-# Portfolio
-Portfolio of data projects highlighting analytics, visualization, and modeling skills. Continuously updated with new work as I expand my expertise.
-
 **Final_Mort_Prob_MLM.ipynb** – Analyzed real-world mortality data from Mississippi Farm Bureau Insurance using statistical and predictive modeling to assess demographic risk patterns across age, gender, and socioeconomic groups. Applied actuarial concepts to evaluate risk drivers and estimate outcomes, and presented findings to the Mathematics Department at Mississippi College, connecting analytical methods to real insurance applications.
 
-Built an end-to-end time series forecasting pipeline for U.S. retail sales using traditional statistical models, machine learning, deep learning, and ensemble methods. Compared ARIMA, SARIMAX, ETS, Random Forest, XGBoost, LightGBM, and LSTM models, incorporating macroeconomic indicators to improve forecast accuracy and evaluate real-world performance.
+**Kumweda_time_sereies_retail.ipynb** – Built an end-to-end time series forecasting pipeline for U.S. retail sales using traditional statistical models, machine learning, deep learning, and ensemble methods. Compared ARIMA, SARIMAX, ETS, Random Forest, XGBoost, LightGBM, and LSTM models, incorporating macroeconomic indicators to improve forecast accuracy and evaluate real-world performance.
